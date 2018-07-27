@@ -1,0 +1,11 @@
+C:\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.0\WelcomeDotNetCore.deps.json
+C:\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.0\WelcomeDotNetCore.runtimeconfig.json
+C:\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.0\WelcomeDotNetCore.runtimeconfig.dev.json
+C:\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.0\WelcomeDotNetCore.dll
+C:\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.0\WelcomeDotNetCore.pdb
+C:\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.0\WelcomeDotNetCore.csprojAssemblyReference.cache
+C:\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.0\WelcomeDotNetCore.csproj.CoreCompileInputs.cache
+C:\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.0\WelcomeDotNetCore.AssemblyInfoInputs.cache
+C:\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.0\WelcomeDotNetCore.AssemblyInfo.cs
+C:\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.0\WelcomeDotNetCore.dll
+C:\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.0\WelcomeDotNetCore.pdb
